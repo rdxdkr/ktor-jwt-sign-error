@@ -1,0 +1,1 @@
+Sample project to reproduce [this issue](https://youtrack.jetbrains.com/issue/KTOR-2382) on devices running Android 7.1 (`minSdkVersion 25`).
